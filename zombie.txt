@@ -1,0 +1,55 @@
+Folder PATH listing for volume 10TB Data Drv
+Volume serial number is E44B-FFF3
+F:\DROPBOX\JOHNS-GITHUB\WPPROATOZ-SHOOT-THE-ZOMBIE
+¦   class.shootthezombie.php
+¦   LICENSE
+¦   README.md
+¦   readme.txt
+¦   scripts.js
+¦   shoot-the-zombie.php
+¦   
++---assets
+¦       shot.mp3
+¦       
++---images
+¦       zombie1.png
+¦       
++---languages
+¦       shootthezombie.mo
+¦       shootthezombie.po
+¦       shootthezombie.pot
+¦       
+            
++-- class.shootthezombie.php
++-- LICENSE
++-- README.md
++-- readme.txt
++-- scripts.js
++-- shoot-the-zombie.php
++-- assets
+¦   +-- shot.mp3
++-- images
+¦   +-- zombie1.png
++-- languages
+¦   +-- shootthezombie.mo
+¦   +-- shootthezombie.po
+¦   +-- shootthezombie.pot
+
+last structure
+wpproatoz-shoot-the-zombie/
++-- class.shootthezombie.php
++-- LICENSE
++-- Readme.md              (new)
++-- readme.txt             (updated)
++-- scripts.js             (unchanged from last working version)
++-- shoot-the-zombie.php   (updated to v1.2)
++-- assets/
+¦   +-- shot.mp3
++-- images/
+¦   +-- zombie1.png
+¦   +-- jiangshi.png
+¦   +-- draugar.png
++-- languages/
+¦   +-- shootthezombie.mo
+¦   +-- shootthezombie.po
+¦   +-- shootthezombie.pot
